@@ -7,7 +7,7 @@ It shows word count, character count, a live preview, and supports Dark Mode.
 ## 📸 Screenshots
 
 ### Home Page
-<img src="textutils.png" width="250" />
+<img src="textutils.png" />
 
 
 
